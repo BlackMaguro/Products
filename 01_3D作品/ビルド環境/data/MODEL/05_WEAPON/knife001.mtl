@@ -1,0 +1,25 @@
+#
+#
+#
+
+newmtl group5_pCylinder1 メッシュ_group5_pCylinder1SG
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 0.420000
+Ks 0.500000 0.500000 0.500000
+Ns 4.310000
+
+newmtl group5_pCylinder1 メッシュ_group5_pCylinder1SG1
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ns 4.310000
+
+newmtl group5_pCylinder1 メッシュ_group5_pCylinder1SG2
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+
